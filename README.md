@@ -1,2 +1,2 @@
 # excslogica-c
-Exercícios de Lógica com C
+Exercícios de Lógica de Programação com C
