@@ -19,4 +19,5 @@ int main ( void ) {
     printf("Perimetro = %d\n", perimetro);
     printf("Area = %d", area);
     return 0;
+    
 }
